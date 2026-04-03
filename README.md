@@ -1,7 +1,7 @@
-#Notes Keeper App
+# Notes Keeper App
 It is a simple React + TailwindCSS app to create, view and delete notes
 
-##Installation
+## Installation
 1. Clone the repository:
 
 ```bash
